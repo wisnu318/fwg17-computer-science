@@ -1,0 +1,16 @@
+<mxfile host="65bd71144e">
+    <diagram id="Swb2IYOGx9nMNXxjfB8A" name="Page-1">
+        <mxGraphModel dx="662" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Algoritma Menghitung luas dan keliling lingkaran" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="10" width="280" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="4" value="1. mulai&lt;br&gt;2. tentukan nilai jari jari&lt;br&gt;3. cek penggunaan phi dengan jari jari habis jika dibagi 7&lt;br&gt;4. jika ya maka menggunakan phi 22/7&lt;br&gt;5. jika tidak&amp;nbsp; maka menggunakan phi 3,14&lt;br&gt;6. masukkan nilai jari jari dan phi ke rumus luas = phi * jari jari * jari jari , lalu hitung&lt;br&gt;7. masukkan nilai jari jari dan phi ke rumus keliling = 2 * phi * jari jari, lalu hitung&lt;br&gt;8.. mendapatkan hasil dari luas dan keliling lingkaran&lt;br&gt;9. selesai" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="50" width="460" height="140" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

@@ -1,0 +1,16 @@
+<mxfile host="65bd71144e">
+    <diagram id="Fsv9NUUAkDUkIDtt-H-g" name="Page-1">
+        <mxGraphModel dx="960" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Algoritma Merebus AIR" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="40" y="20" width="150" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="1. Mulai&lt;br&gt;2. Siapkan air, panci dan kompor&lt;br&gt;3. masukkan air kedalam panci sampai penuh&lt;br&gt;4. taro panci diatas kompor&lt;br&gt;5. nyalakan api dari kompor&lt;br&gt;6. panaskan air didalam panci sampai mendidih&lt;br&gt;7. matikan kompor&lt;br&gt;8. selesai dan air matang siap diminum" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="10" y="50" width="290" height="140" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>

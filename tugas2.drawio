@@ -1,0 +1,16 @@
+<mxfile host="65bd71144e">
+    <diagram id="lZdOMDgiIQVIJVjNfN_J" name="Page-1">
+        <mxGraphModel dx="662" dy="467" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+            <root>
+                <mxCell id="0"/>
+                <mxCell id="1" parent="0"/>
+                <mxCell id="2" value="Algoritma Pindahkan Air didalam Gelas" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="10" width="230" height="30" as="geometry"/>
+                </mxCell>
+                <mxCell id="3" value="1. Mulai&lt;br&gt;2. siapkan gelas tambahan atau gelas C&lt;br&gt;3. masukkan air teh di gelas A ke gelas C&lt;br&gt;4. masukkan air kopi di gelas B ke gelas awalnya air teh atau gelas A&lt;br&gt;5. masukkan air&amp;nbsp; teh di gelas C ke gelas awalnya air kopi atau gelas B&lt;br&gt;6. Selesai" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" vertex="1" parent="1">
+                    <mxGeometry x="20" y="50" width="380" height="110" as="geometry"/>
+                </mxCell>
+            </root>
+        </mxGraphModel>
+    </diagram>
+</mxfile>
