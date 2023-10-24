@@ -38,7 +38,7 @@
                 <mxCell id="mAerkZqi7aBmmSv-46kn-2" value="True" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eGiSJUhgHARl2_mfINpc-6" target="eGiSJUhgHARl2_mfINpc-7" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
-                <mxCell id="eGiSJUhgHARl2_mfINpc-6" value="sisi == number" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
+                <mxCell id="eGiSJUhgHARl2_mfINpc-6" value="sisi === number" style="rhombus;whiteSpace=wrap;html=1;" parent="1" vertex="1">
                     <mxGeometry x="363" y="280" width="125" height="80" as="geometry"/>
                 </mxCell>
                 <mxCell id="mAerkZqi7aBmmSv-46kn-3" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="eGiSJUhgHARl2_mfINpc-7" target="eGiSJUhgHARl2_mfINpc-8" edge="1">
@@ -64,7 +64,7 @@
                 <mxCell id="2" value="Flowchart luas dan keliling lingkaran" style="text;html=1;strokeColor=none;fillColor=none;align=left;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="319" y="10" width="212" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="33" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" edge="1" parent="1" source="3" target="5">
+                <mxCell id="33" style="edgeStyle=none;html=1;exitX=0.5;exitY=1;exitDx=0;exitDy=0;entryX=0.5;entryY=0;entryDx=0;entryDy=0;" parent="1" source="3" target="5" edge="1">
                     <mxGeometry relative="1" as="geometry"/>
                 </mxCell>
                 <mxCell id="3" value="" style="ellipse;whiteSpace=wrap;html=1;" parent="1" vertex="1">
@@ -126,7 +126,7 @@
                 <mxCell id="12" value="input r" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="395" y="175" width="60" height="30" as="geometry"/>
                 </mxCell>
-                <mxCell id="13" value="r == number" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
+                <mxCell id="13" value="r === number" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
                     <mxGeometry x="385.5" y="280" width="80" height="30" as="geometry"/>
                 </mxCell>
                 <mxCell id="18" value="r % 7 == 0" style="text;html=1;strokeColor=none;fillColor=none;align=center;verticalAlign=middle;whiteSpace=wrap;rounded=0;" parent="1" vertex="1">
